@@ -1,0 +1,5 @@
+token = "files/token.json"
+client_secret = "files/client_secret.json"
+wishlist_path = "files/wishlist.csv"
+cache_file = "files/my_cache.csv"
+demo_cache_file = "files/cache_demo.csv"
